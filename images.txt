@@ -4,4 +4,7 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-apache/doris:build-env-ldb-toolchain-latest
+#apache/doris:build-env-ldb-toolchain-latest
+
+databend-docker:databend-query
+databend-docker:databend-meta
